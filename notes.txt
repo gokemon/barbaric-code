@@ -1,0 +1,41 @@
+
+NOW that I read it... it is crap, he built it in old manner, and does a slow update with all the old crap left in there.
+I want to build something from scratch, following all the instructions, so I can then later build my own thing.
+
+
+////////
+barbaric-code1 is from 
+https://github.com/angular/quickstart
+thats the one I think I want, but the page I am following says pick this other guys...
+
+barbaric-code2 is from 
+https://github.com/Vintharas/quickstart
+which is 67 steps behind, and still uses typilings, where as the one above uses the TS2
+
+so I am trying to figure out if the guy is going to migrate his stuff at some point in the 
+
+
+
+Your First Component, March 25, 2016 way old...
+https://www.barbarianmeetscoding.com/blog/2016/03/25/getting-started-with-angular-2-step-by-step-1-your-first-component/
+
+Refactoring to Services, got updated September, 14 2016 from March 26
+https://www.barbarianmeetscoding.com/blog/2016/03/26/getting-started-with-angular-2-step-by-step-2-refactoring-to-services/
+
+Your Second Component and Angular 2 Data Binding
+https://www.barbarianmeetscoding.com/blog/2016/03/27/getting-started-with-angular-2-step-by-step-3-your-second-component-and-angular-2-data-binding/
+
+Routing
+
+Forms and Validation
+
+Consuming Real Data With Http
+that as April, and then a big jump to July, so safe to say, a change
+The end of the Getting Started parts, the next 3 are caleld Updating your Angular 2 app....
+
+
+Use the New Router: A Practical Guide
+https://www.barbarianmeetscoding.com/blog/2016/07/07/updating-your-angular-2-app-to-use-the-new-router/
+
+Use the New Forms API: A Practical Guide
+https://www.barbarianmeetscoding.com/blog/2016/07/15/updating-your-angular-2-app-to-use-the-new-forms-api-a-practical-guide/
