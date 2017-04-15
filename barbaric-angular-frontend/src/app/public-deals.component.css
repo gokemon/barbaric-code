@@ -1,1 +1,5 @@
 /*CSS for Public Deals*/
+
+.panel-body {
+    min-height: 100px;
+}

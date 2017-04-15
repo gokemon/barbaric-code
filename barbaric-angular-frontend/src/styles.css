@@ -1,10 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
 
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Roboto);
 body {
     background-color: #0facaa;
-    color: black;
+    color: gray;
     padding: 10px 30px 50px 80px;
     font-size: 28px;
-    font-family: 'Indie Flower', cursive;
+    /*font-family: 'Indie Flower', cursive;*/
+    font-family: 'Roboto', sans-serif;
 }

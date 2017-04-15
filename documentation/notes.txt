@@ -1,3 +1,5 @@
+https://auth0.com/blog/angular-2-authentication/
+
 
 NOW that I read it... it is crap, he built it in old manner, and does a slow update with all the old crap left in there.
 I want to build something from scratch, following all the instructions, so I can then later build my own thing.
